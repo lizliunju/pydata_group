@@ -24,5 +24,5 @@ If you find some books useful, you are always welcomed to leave comments in the 
 
 ## Notes
 
-If you want to download a sub-folder or sub-directory of this repository, copy the URL of that page and paste it in [DownGit](https://minhaskamal.github.io/DownGit/#/home). 
+If you want to download a sub-folder or sub-directory of this repository, copy the URL of that page and paste it in <a href="https://minhaskamal.github.io/DownGit/#/home" target="_blank">DownGit</a>. 
 
