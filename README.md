@@ -14,9 +14,15 @@ This repository is designed to remove barriers for most active learners and offe
 
 Commercial use is not allowed. And please reference this repository if you want to share some contents with your partners.
 
+
 ## Recommendations
 
 If you have problems understanding some contents in certain books, leave a comment in the forum and some **active learners** will help you.
 
 If you find some books useful, you are always welcomed to leave comments in the forum. And we will consider adding them in this repository.
+
+
+## Notes
+
+If you want to download a sub-folder or sub-directory of this repository, copy the URL of that page and paste it in [DownGit](https://minhaskamal.github.io/DownGit/#/home). 
 
